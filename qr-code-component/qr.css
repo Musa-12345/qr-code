@@ -38,12 +38,12 @@ img{
     font-size: 15px;
     font-weight: 700;
     line-height: 10px;
-    color: darkblue;
+    color: hsl(218, 44%, 22%);
 }
 .bottom{
     font-size: 15px;
     font-weight: 400;
-    color:#7676ad;
+    color:hsl(220, 15%, 55%);
   
     line-height: 5px;
 
